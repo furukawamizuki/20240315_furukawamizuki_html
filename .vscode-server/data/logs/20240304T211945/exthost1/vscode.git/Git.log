@@ -1,0 +1,26 @@
+2024-03-04 21:19:48.151 [info] Log level: Info
+2024-03-04 21:19:48.151 [info] Validating found git in: "git"
+2024-03-04 21:19:48.151 [info] Using git "2.34.1" from "git"
+2024-03-04 21:19:48.151 [info] > git rev-parse --show-toplevel [5ms]
+2024-03-04 21:19:48.151 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-04 21:19:48.151 [info] > git rev-parse --show-toplevel [37ms]
+2024-03-04 21:19:48.151 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-04 21:19:48.153 [info] > git rev-parse --show-toplevel [11ms]
+2024-03-04 21:19:48.153 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-04 21:19:48.163 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-04 21:19:48.163 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-04 21:23:17.393 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-04 21:23:17.393 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-04 21:23:27.563 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-04 21:23:27.563 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-04 21:32:28.492 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-04 21:32:28.498 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-04 21:32:28.508 [info] Open repository: /home/furukawam/coachtech/html-css/html-test
+2024-03-04 21:32:28.515 [info] > git config --get commit.template [1ms]
+2024-03-04 21:32:28.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-04 21:32:28.529 [info] > git status -z -uall [1ms]
+2024-03-04 21:32:28.542 [info] > git config --get commit.template [1ms]
+2024-03-04 21:32:28.549 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-03-04 21:32:28.555 [info] > git status -z -uall [1ms]
+2024-03-04 21:32:29.041 [info] > git check-ignore -v -z --stdin [1ms]
+2024-03-04 21:39:16.503 [info] > git check-ignore -v -z --stdin [1ms]

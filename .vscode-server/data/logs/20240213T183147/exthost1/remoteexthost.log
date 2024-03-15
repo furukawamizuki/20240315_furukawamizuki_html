@@ -1,0 +1,10 @@
+2024-02-13 18:31:48.719 [info] Extension host with pid 8730 started
+2024-02-13 18:31:48.743 [info] Lock '/home/furukawam/.vscode-server/data/User/workspaceStorage/2509e24521e942cefecd793bbfbb9bfb/vscode.lock': Lock acquired.
+2024-02-13 18:31:48.819 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-13 18:31:48.820 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-13 18:31:49.786 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-13 18:31:49.800 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-13 18:31:49.800 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-13 18:31:49.981 [info] Eager extensions activated
+2024-02-13 18:31:49.982 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-13 18:31:49.982 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

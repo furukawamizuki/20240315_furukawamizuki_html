@@ -1,0 +1,38 @@
+2024-02-13 18:31:47.427 [info] 
+
+
+
+
+2024-02-13 18:31:47.427 [info] Extension host agent started.
+2024-02-13 18:31:47.552 [info] [127.0.0.1][a43a2ff1][ManagementConnection] New connection established.
+2024-02-13 18:31:48.072 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] New connection established.
+2024-02-13 18:31:48.077 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] <8730> Launched Extension Host Process.
+2024-02-13 19:15:28.748 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-13 19:15:29.047 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-13 19:43:24.950 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-13 19:43:25.189 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-13 20:00:39.056 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-13 20:00:39.316 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-13 20:04:43.372 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 00:58:19.757 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 00:58:24.483 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 00:58:37.684 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 00:58:37.834 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:01:09.060 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:01:14.225 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:11:41.093 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:11:41.251 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:12:18.761 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:12:18.922 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:13:23.811 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:13:28.870 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:13:51.002 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:13:51.305 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:18:33.515 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:18:33.685 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:18:48.384 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:18:48.555 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:18:57.453 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.
+2024-02-16 01:18:57.622 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:19:11.633 [info] [127.0.0.1][ce178e96][ExtensionHostConnection] The client has reconnected.
+2024-02-16 01:19:11.782 [info] [127.0.0.1][a43a2ff1][ManagementConnection] The client has reconnected.

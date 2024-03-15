@@ -1,0 +1,13 @@
+2024-03-04 21:36:12.533 [info] Log level: Info
+2024-03-04 21:36:12.533 [info] Validating found git in: "git"
+2024-03-04 21:36:12.533 [info] Using git "2.34.1" from "git"
+2024-03-04 21:36:12.533 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-04 21:36:12.533 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-03-04 21:36:12.533 [info] Open repository: /home/furukawam/coachtech/html-css/html-test
+2024-03-04 21:36:12.548 [info] > git config --get commit.template [9ms]
+2024-03-04 21:36:12.558 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-03-04 21:36:12.573 [info] > git status -z -uall [4ms]
+2024-03-04 21:36:12.593 [info] > git config --get commit.template [1ms]
+2024-03-04 21:36:12.601 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-04 21:36:12.612 [info] > git status -z -uall [2ms]
+2024-03-04 21:36:13.078 [info] > git check-ignore -v -z --stdin [1ms]

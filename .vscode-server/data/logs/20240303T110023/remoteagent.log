@@ -1,0 +1,36 @@
+2024-03-03 11:00:23.397 [info] 
+
+
+
+
+2024-03-03 11:00:23.413 [info] Extension host agent started.
+2024-03-03 11:00:23.466 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/furukawam/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024021409
+2024-03-03 11:00:23.539 [info] [127.0.0.1][8244b0df][ManagementConnection] New connection established.
+2024-03-03 11:00:23.866 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] New connection established.
+2024-03-03 11:00:23.985 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] <638> Launched Extension Host Process.
+2024-03-03 11:22:25.492 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:22:25.789 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:22:54.205 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:22:54.419 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:31:38.185 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:31:38.224 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:35:31.787 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:35:32.021 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:39:03.414 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:39:03.640 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:42:38.609 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:42:38.966 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:48:03.244 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:48:03.509 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:48:09.586 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:48:09.979 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 11:48:48.717 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 11:48:48.919 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 12:12:11.492 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 12:12:11.732 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 12:16:25.322 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 12:16:25.551 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 12:26:24.447 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has reconnected.
+2024-03-03 12:26:24.714 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] The client has reconnected.
+2024-03-03 13:16:05.754 [info] [127.0.0.1][8244b0df][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-03 13:16:05.943 [info] [127.0.0.1][6c3e70c8][ExtensionHostConnection] <638> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,22 @@
+2024-03-02 00:40:28.203 [info] 
+
+
+
+
+2024-03-02 00:40:28.216 [info] Extension host agent started.
+2024-03-02 00:40:28.409 [info] [127.0.0.1][cc1787e3][ManagementConnection] New connection established.
+2024-03-02 00:40:28.838 [info] [127.0.0.1][2ee1433f][ExtensionHostConnection] New connection established.
+2024-03-02 00:40:28.964 [info] [127.0.0.1][2ee1433f][ExtensionHostConnection] <69297> Launched Extension Host Process.
+2024-03-02 00:40:33.263 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:33.264 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:33.668 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:33.670 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:38.627 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:38.784 [info] Extracted extension to file:///home/furukawam/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.87.2024022809: ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:38.791 [info] Renamed to /home/furukawam/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.87.2024022809
+2024-03-02 00:40:38.793 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:38.800 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:40:38.832 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.85.2024021409
+2024-03-02 00:40:38.853 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2024-03-02 00:44:12.558 [info] [127.0.0.1][cc1787e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-02 00:44:12.704 [info] [127.0.0.1][2ee1433f][ExtensionHostConnection] <69297> Extension Host Process exited with code: 0, signal: null.
